@@ -9,4 +9,4 @@ A simple way to go is to clone or download this git repository to your local mac
 In this project we use Jasmine.js to write the test suites, feel free to open the `jasmine/spec/feedreader.js` to take
 a look on the written test suites.
 
-For more information about Jasmine, visit the documentation (here)[https://jasmine.github.io/]
+For more information about Jasmine, visit the documentation [here](https://jasmine.github.io/)
